@@ -1,0 +1,70 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+.kotlin/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio & IDEs
+.idea/
+*.iml
+.DS_Store
+.vscode/
+
+# Signing
+*.jks
+*.keystore
+
+# Log & Temporary files
+*.log
+scratch/
+tmp/
+temp/
+
+# Documentation, Notes & Markdown files (User Mandate)
+*.txt
+*.TXT
+*.md
+*.MD
+*.markdown
+!README.md
+!readme.md
+
+
+# Agent configurations & Tooling traces (Antigravity, Gemini, etc.)
+.agents/
+**/.agents/
+.gemini/
+**/.gemini/
+.antigravity/
+**/.antigravity/
+.system_generated/
+**/.system_generated/
+*.agent
+*.prompt
+AGENTS.md
+GEMINI.md
+CLAUDE.md
+.claude/
+.cursor/
+.windsurf/
+

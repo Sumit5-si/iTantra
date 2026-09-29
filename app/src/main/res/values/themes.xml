@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme for the activity (before Compose takes over) -->
+    <style name="Theme.ITantra" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FF043168</item>
+        <item name="android:navigationBarColor">#FF043168</item>
+        <item name="android:windowBackground">#FFF8F9FA</item>
+    </style>
+</resources>

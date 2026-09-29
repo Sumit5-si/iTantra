@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">iTantra</string>
+    <string name="app_tagline">Offline Multilingual Voice Communication</string>
+
+    <!-- Home Screen -->
+    <string name="no_device_connected">No Device Connected</string>
+    <string name="tap_to_scan">Tap to Scan Nearby</string>
+    <string name="connected">Connected</string>
+    <string name="wifi_connected">Wi-Fi Connected</string>
+    <string name="bluetooth_connected">Bluetooth Connected</string>
+    <string name="select_language">Select Language</string>
+    <string name="mode_label">Mode (संवाद के प्रकार)</string>
+    <string name="walkie_talkie">Walkie Talkie</string>
+    <string name="phone_mode">Phone</string>
+    <string name="hold_to_talk">Hold to Talk</string>
+    <string name="listening">Listening…</string>
+    <string name="processing">Processing…</string>
+    <string name="sending">Sending…</string>
+    <string name="tap_to_start">Tap to Start</string>
+
+    <!-- Emergency -->
+    <string name="emergency">Emergency</string>
+    <string name="hold_to_send_emergency">Hold to Send</string>
+    <string name="emergency_alert">EMERGENCY ALERT</string>
+    <string name="emergency_confirmation">Hold for 2 seconds to send emergency alert</string>
+
+    <!-- Scan Nearby -->
+    <string name="scan_nearby">Scan Nearby</string>
+    <string name="searching">Searching…</string>
+    <string name="devices_found">Devices Found</string>
+    <string name="no_devices_found">No Devices Found</string>
+    <string name="connect">Connect</string>
+    <string name="connecting">Connecting…</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="rescan">Rescan</string>
+    <string name="stop">Stop</string>
+
+    <!-- Communication -->
+    <string name="type_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="message_failed">Failed</string>
+    <string name="retry">Retry</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="permissions">Permissions</string>
+    <string name="appearance">Appearance</string>
+    <string name="about_app">About App</string>
+    <string name="communication_settings">Communication</string>
+    <string name="privacy_security">Privacy &amp; Security</string>
+    <string name="light_mode">Light</string>
+    <string name="dark_mode">Dark</string>
+    <string name="system_default">System Default</string>
+
+    <!-- Language names -->
+    <string name="lang_hindi">Hindi</string>
+    <string name="lang_english">English</string>
+    <string name="lang_tamil">Tamil</string>
+    <string name="lang_telugu">Telugu</string>
+    <string name="lang_kannada">Kannada</string>
+    <string name="lang_malayalam">Malayalam</string>
+    <string name="lang_marathi">Marathi</string>
+    <string name="lang_gujarati">Gujarati</string>
+    <string name="lang_bengali">Bengali</string>
+    <string name="lang_odia">Odia</string>
+
+    <!-- About -->
+    <string name="about_itantra">About iTantra</string>
+    <string name="version_label">Version</string>
+    <string name="app_version">1.0.0</string>
+    <string name="technology_label">Technology</string>
+    <string name="technology_value">Kotlin • Jetpack Compose • Offline ML</string>
+    <string name="supported_languages_label">Supported Languages</string>
+    <string name="offline_concept">Direct device-to-device communication over local Wi-Fi and Bluetooth. No internet required.</string>
+
+    <!-- Permissions -->
+    <string name="permission_microphone">Microphone access is needed for voice communication features.</string>
+    <string name="permission_location">Location access is required for discovering nearby devices via Wi-Fi Direct.</string>
+    <string name="permission_bluetooth">Bluetooth access is needed for fallback device-to-device communication.</string>
+    <string name="permission_nearby">Nearby device discovery is needed to find other iTantra devices.</string>
+
+    <!-- Errors -->
+    <string name="error_wifi_unavailable">Wi-Fi is not available. Enable Wi-Fi to discover nearby devices.</string>
+    <string name="error_connection_lost">Connection lost. Attempting to reconnect…</string>
+    <string name="error_device_unavailable">Device is no longer available.</string>
+    <string name="error_connection_timeout">Connection timed out. Try again.</string>
+    <string name="error_send_failed">Message failed to send.</string>
+    <string name="error_permission_denied">Permission denied. Open Settings to grant access.</string>
+</resources>
